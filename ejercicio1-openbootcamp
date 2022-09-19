@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <!--Este es mi primer comentario de dos líneas-->
+    <!--Aprendiendo a documentar mi código con OpenBootcamp-->
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=VP8viM0WJC8&list=TLPQMTkwOTIwMjLoRCxmjMTskg&index=5">Muerte en la bombonera en 1990</a></li>
+        <li><a href="https://www.youtube.com/watch?v=ooJy6nwKMIU&list=TLPQMTkwOTIwMjLoRCxmjMTskg&index=1">¿Por qué se sirve un vaso de agua con el café? - Historias de unos minutos</a></li>
+        <li><a href="https://www.youtube.com/watch?v=76akNX1u984&list=TLPQMTkwOTIwMjLoRCxmjMTskg&index=2">Los discos más vendidos de la Música Argentina en general</a></li>
+    </ul>
+</body>
+</html>
